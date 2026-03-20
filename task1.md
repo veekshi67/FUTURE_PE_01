@@ -41,3 +41,11 @@ Because your pet deserves nothing but the best care.
 
 ## 🔹 Explanation:
 I used AI (ChatGPT) to generate website homepage content for a premium pet care and spa business. The prompt was structured to include all essential sections like headline, services, and call-to-action while maintaining a friendly and emotional tone suitable for pet owners.
+## 🔹 Prompt System:
+
+This prompt structure can be reused for different local businesses by changing:
+- Business name
+- Location
+- Services
+
+This makes it a scalable and reusable prompt system for generating website content.
